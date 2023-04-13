@@ -15,4 +15,4 @@ Alors, êtes-vous prêt à relever le défi de SuperFitBoy ? Téléchargez le je
 ## Fonctionnement :
 1.  - Télécharger le jeu via ce lien : https://we.tl/t-s6q0GtQaae
 2.  - Il vous suffit de lancer SuperFitBoy.exe 
-3. - Une API a été déployé via railway afin de permettre le fonctionnement du scoreboard.
+3. - Une API a été déployé via railway afin de permettre le fonctionnement du scoreboard : https://github.com/HarbaaZ/superfitboy-api
